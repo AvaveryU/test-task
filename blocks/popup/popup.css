@@ -3,7 +3,7 @@
   font-style: normal;
   height: 100%;
   width: 100%;
-  position: absolute;
+  position: fixed;
   top: 25%;
   left: 0;
   opacity: 0;
