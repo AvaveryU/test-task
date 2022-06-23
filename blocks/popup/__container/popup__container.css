@@ -1,0 +1,14 @@
+.popup__container {
+  position: relative;
+  background: var(--white);
+  width: 400px;
+  min-height: 400px;
+  font-weight: 400;
+  font-size: 53px;
+  line-height: 62px;
+  color: var(--textPopup);
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

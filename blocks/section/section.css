@@ -1,0 +1,9 @@
+.section {
+  min-height: 100px;
+  background: var(--head);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 30px;
+  box-sizing: border-box;
+}

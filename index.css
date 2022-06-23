@@ -1,0 +1,16 @@
+@import url("./variables/variables.css");
+@import url("./vendor/fonts/fonts.css");
+
+@import url("./blocks/page/page.css");
+@import url("./blocks/page/__content/page__content.css");
+
+@import url("./blocks/section/section.css");
+@import url("./blocks/button/button.css");
+@import url("./blocks/button/_type/button_type_header.css");
+@import url("./blocks/button/_type/button_type_popup.css");
+@import url("./blocks/wrapper/wrapper.css");
+@import url("./blocks/wrapper/__frame/wrapper__frame.css");
+@import url("./blocks/blocks/blocks.css");
+@import url("./blocks/blocks/__frame/blocks__frame.css");
+@import url("./blocks/popup/popup.css");
+@import url("./blocks/popup/__container/popup__container.css");

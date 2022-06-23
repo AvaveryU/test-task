@@ -1,0 +1,13 @@
+.blocks {
+  min-height: 259px;
+  background: var(--blocks);
+  display: grid;
+  padding: 0;
+  margin: 0 auto 100px;
+  list-style: none;
+  gap: 30px;
+  padding: 30px;
+  box-sizing: border-box;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+}

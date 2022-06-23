@@ -1,0 +1,8 @@
+.page__content {
+  max-width: 1200px;
+  background: var(--background);
+  padding: 0 15px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}

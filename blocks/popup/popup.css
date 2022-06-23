@@ -1,0 +1,16 @@
+.popup {
+  font-family: "Roboto";
+  font-style: normal;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 1s, visibility 1s;
+}
+.popup:target {
+  opacity: 1;
+  visibility: visible;
+}

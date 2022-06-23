@@ -1,0 +1,6 @@
+.blocks__frame {
+  background: var(--frameBlocks);
+  max-width: 255px;
+  max-height: 199px;
+  aspect-ratio: 1.28;
+}
